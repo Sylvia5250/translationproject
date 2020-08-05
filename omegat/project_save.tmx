@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN-GB"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="EN-GB"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-GB">
+        <seg>A Scientific  Approach to  Writing for  Engineers   and Scientists IEEE Press 445 Hoes Lane Piscataway, NJ 08854 IEEE Press Editorial Board Tariq Samad, Editor in Chief  George W. Arnold Mary Lanzerotti Linda Shafer  Dmitry Goldgof Pui-In Mak MengChu Zhou  Ekram Hossain Ray Perez George Zobrist Kenneth Moore, Director of IEEE Book and Information Services (BIS) A Scientific   Approach to   Writing for   Engineers   and Scientists Robert E. Berger, PhD IEEE PCS Professional Engineering Communication Series Copyright © 2014 by The Institute of Electrical and Electronics Engineers, Inc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="62520" changedate="20200805T060548Z" creationid="62520" creationdate="20200805T060548Z">
+        <seg>译文，译文666666666666666666</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
